@@ -1,0 +1,15 @@
+{
+  "identifier": "shattered:mecanoid",
+  "base": true,
+  "name": "Mécanoide",
+  "description": "Ces êtres robotiques sont le produit d'une technologie de pointe, créée pour aider et coexister avec l'humanité. Avec leurs cadres métalliques et leur IA avancée, les mécanoïdes possèdent une résistance, une durabilité et des capacités d'analyse exceptionnelles. Ils excellent dans les compétences techniques, ce qui en fait des ingénieurs, des pirates informatiques et des inventeurs compétents.",
+  "evolution": "",
+  "stats": {
+    "strength": 8,
+    "dexterity": 5,
+    "constitution": 0,
+    "intelligence": 3,
+    "wisdom": 4,
+    "charisma": 2
+  }
+}

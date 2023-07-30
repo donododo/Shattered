@@ -1,0 +1,15 @@
+{
+  "identifier": "shattered:caelite",
+  "base": true,
+  "name": "Caelite",
+  "description": "Originaires de villes flottantes haut dans le ciel, les Caélites se sont adaptées à la mince atmosphère et ont développé des ailes ou des systèmes de propulsion à réaction. Ce sont des aviateurs et des guerriers qualifiés, capables de combats aériens et de mouvements rapides. Les Caélites possèdent un lien profond avec les cieux, tirant leur pouvoir des royaumes célestes pour les aider dans la bataille.",
+  "evolution": "",
+  "stats": {
+    "strength": 8,
+    "dexterity": 5,
+    "constitution": 0,
+    "intelligence": 3,
+    "wisdom": 4,
+    "charisma": 2
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "identifier": "shattered:bio_genius",
+  "base": true,
+  "name": "Biogénie",
+  "description": "Les biogéniques sont le résultat d'un génie génétique avancé, avec leurs corps modifiés de manière complexe pour posséder des attributs physiques et une adaptabilité extraordinaires. Ils peuvent manipuler leur propre ADN pour améliorer leur force, leur vitesse ou leur résilience. Les biogénies sont souvent des explorateurs, des scientifiques ou des soldats qui cherchent à repousser les limites de leur potentiel génétique.\n",
+  "evolution": "",
+  "stats": {
+    "strength": 8,
+    "dexterity": 5,
+    "constitution": 0,
+    "intelligence": 3,
+    "wisdom": 4,
+    "charisma": 2
+  }
+}
