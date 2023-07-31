@@ -6,10 +6,7 @@
   "evolution": "",
   "stats": {
     "strength": 8,
-    "dexterity": 5,
     "constitution": 0,
-    "intelligence": 3,
-    "wisdom": 4,
-    "charisma": 2
+    "defense": 5
   }
 }

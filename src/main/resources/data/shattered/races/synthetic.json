@@ -5,11 +5,8 @@
   "description": "Les synthétiques sont des androïdes humanoïdes conçus pour imiter les humains en apparence et en comportement. Créés en tant que compagnons, ouvriers ou soldats, ils possèdent une agilité, une précision et des capacités de calcul améliorées. Ils ont la capacité de se fondre parfaitement dans les sociétés humaines, ce qui en fait des infiltrés et des diplomates qualifiés.",
   "evolution": "",
   "stats": {
-    "strength": 8,
-    "dexterity": 5,
-    "constitution": 0,
-    "intelligence": 3,
-    "wisdom": 4,
-    "charisma": 2
+    "strength": 10,
+    "constitution": 8,
+    "defense": 2
   }
 }

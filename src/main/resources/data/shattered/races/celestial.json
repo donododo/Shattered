@@ -5,11 +5,8 @@
   "description": "Descendants d'êtres anciens qui exploitaient les énergies cosmiques, les Célestes possèdent des qualités éthérées et des auras rayonnantes. Ils peuvent manipuler les forces célestes, leur accordant des capacités telles que la guérison, la projection d'énergie ou la projection astrale. Les célestes sont souvent vénérés comme des êtres sages et spirituels, agissant comme guérisseurs, conseillers ou gardiens.",
   "evolution": "",
   "stats": {
-    "strength": 8,
-    "dexterity": 5,
-    "constitution": 0,
-    "intelligence": 3,
-    "wisdom": 4,
-    "charisma": 2
+    "strength": 3,
+    "constitution": 7,
+    "defense": 3
   }
 }

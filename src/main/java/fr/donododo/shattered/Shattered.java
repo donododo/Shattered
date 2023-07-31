@@ -2,6 +2,7 @@ package fr.donododo.shattered;
 
 import com.mojang.logging.LogUtils;
 import fr.donododo.shattered.events.ClientListn;
+import fr.donododo.shattered.loaders.PlayerClass;
 import fr.donododo.shattered.loaders.RaceLoader;
 import net.minecraftforge.client.event.RegisterKeyMappingsEvent;
 import net.minecraftforge.common.MinecraftForge;
@@ -13,9 +14,12 @@ import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import org.slf4j.Logger;
 import software.bernie.geckolib.GeckoLib;
 
+import java.util.HashMap;
+
 @Mod(Shattered.MODID)
 public class Shattered {
 
+    public static HashMap<String, PlayerClass> classList = new HashMap<String, PlayerClass>();
     public static final String MODID = "shattered";
     private static final Logger LOGGER = LogUtils.getLogger();
 
@@ -26,6 +30,7 @@ public class Shattered {
         EntityRegistry.ENTITIES.register(modEventBus);
         BlockEntityRegistry.TILES.register(modEventBus);
         BlockRegistry.BLOCKS.register(modEventBus);
+        MinecraftForge.EVENT_BUS.addListener(this::registerLoader);
     }
 
     @SubscribeEvent

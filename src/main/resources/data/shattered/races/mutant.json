@@ -5,11 +5,8 @@
   "description": "Nés à la suite d'événements cataclysmiques, les mutants sont des humains qui ont subi des mutations génétiques importantes. Ces mutations leur confèrent des capacités extraordinaires telles que des sens améliorés, des pouvoirs de régénération ou le contrôle des éléments. Leurs apparences varient considérablement, allant de changements physiques mineurs à des modifications complètes de la physiologie.",
   "evolution": "",
   "stats": {
-    "strength": 8,
-    "dexterity": 5,
-    "constitution": 0,
-    "intelligence": 3,
-    "wisdom": 4,
-    "charisma": 2
+    "strength":5,
+    "constitution": 2,
+    "defense": 4
   }
 }
